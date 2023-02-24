@@ -4,3 +4,5 @@
 - numpy=1.22.4
 - seaborn=0.12.2
 - matplotlib=3.6.2
+
+this is req file
